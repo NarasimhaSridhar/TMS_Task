@@ -22,7 +22,7 @@ module.exports = class config {
 
 	TMS_REST_DATA_ACCESS_DATABASE_CONNECTIONS = {
 		isDefault: true,
-		databaseURL: "postgresql://postgres:1234@localhost:5432/Task-Management-System-04FEB2025",
-		databaseName: "Task-Management-System-04FEB2025"
+		databaseURL: "postgresql://tmsprojectdb_x7o0_user:Pe1itEKFAv2sdvyixyGlCR5K8ntn5XUy@dpg-cv18utjtq21c73cmgb2g-a.oregon-postgres.render.com/tmsprojectdb_x7o0",
+		databaseName: "tmsprojectdb_x7o0"
 	};
 };
